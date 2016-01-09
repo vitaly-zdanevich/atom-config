@@ -1,0 +1,25 @@
+"*":
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "one-dark-ui"
+      "ir-black-k-syntax"
+    ]
+    autoHideMenuBar: true
+    disabledPackages: [
+      "wrap-guide"
+      "SFTP-deployment"
+    ]
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    backUpBeforeSaving: true
+    fontSize: 13
+  "atom-fuzzy-grep": {}
+  "one-dark-ui": {}
+  "browser-plus":
+    homepage: "http://52.28.198.226"
+  "git-plus": {}
+  "autocomplete-plus": {}

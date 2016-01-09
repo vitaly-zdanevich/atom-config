@@ -1,0 +1,40 @@
+{
+  "name": "ir-black-k-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A light-on-dark color syntax theme which adapted from Todd Werth’s original IR_Black TextMate",
+  "keywords": [
+    "syntax",
+    "theme",
+    "ir-black",
+    "ir_black"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksaynice/ir-black-K-syntax.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "readme": "# IR_Black_K Syntax theme\n\nA light-on-dark color syntax theme for Atom which adapted from Todd Werth’s [original IR_Black TextMate Theme](http://toddwerth.com/2007/03/29/ir_black-the-last-textmate-theme-youll-ever-need/).\n\n![A screenshot of your theme](https://raw.githubusercontent.com/ksaynice/ir-black-K-syntax/master/screenshot_sample_files.png)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/ksaynice/ir-black-K-syntax/issues"
+  },
+  "homepage": "https://github.com/ksaynice/ir-black-K-syntax#readme",
+  "_id": "ir-black-k-syntax@0.1.0",
+  "_shasum": "f907cd453479186cc8d7e1948dd451e1cc96e68c",
+  "_resolved": "file:../d-115819-3454-jaaewf/package.tgz",
+  "_from": "../d-115819-3454-jaaewf/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
